@@ -1,3 +1,3 @@
 # test-rules
 
-commit-1
+commit-2
